@@ -1,7 +1,7 @@
 
 def square_array (array)
-count = 0 
+counter = 0 
 new_array = []
-while counter
+while counter < 
 
 end
